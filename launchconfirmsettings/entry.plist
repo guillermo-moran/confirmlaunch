@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "LaunchConfirmSettings";
+		cell = PSLinkCell;
+		detail = "LaunchConfirmSettingsListController";
+		icon = "LaunchConfirmSettings.png";
+		isController = 1;
+		label = LaunchConfirm;
+	};
+}
